@@ -2,3 +2,10 @@ AcmanDBL: changes log
 
 Version 1.0:
 • Initial commit on GitHub
+
+Version 1.1:
+• Implemented the keyboard control for the dictionary interface;
+• Decreased the size of data file;
+• Implemented the negative values for indicators;
+• Maximum absolute value increased to 5B;
+• Added new fields for indicators;
